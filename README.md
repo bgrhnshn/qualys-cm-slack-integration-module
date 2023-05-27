@@ -37,9 +37,7 @@
 
 <h2>Usage</h2>
 <p>This script is meant to be run as an AWS Lambda function. The entry point is the <code>lambda_handler</code> function. Here's a basic example of usage:</p>
-<pre><code>event = {}
-context = {}
-lambda_handler(event, context)</code></pre>
+<pre><code>event = {}</code></pre>
 
 <h2>Built With</h2>
 <ul>
@@ -48,9 +46,3 @@ lambda_handler(event, context)</code></pre>
     <li><a href="https://github.com/martinblech/xmltodict">xmltodict</a></li>
     <li><a href="https://github.com/boto/boto3">boto3</a></li>
 </ul>
-
-<h2>Contributing</h2>
-<p>Please read <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> for details on our code of conduct, and the process for submitting pull requests to us.</p>
-
-<h2>License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE.md">LICENSE.md</a> file for details</p>
