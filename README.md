@@ -1,5 +1,5 @@
 <h1>Qualys Continuous Monitoring - Slack Integration Module</h1>
-![CM-Slack Integration](https://github.com/bgrhnshn/qualys-cm-slack-integration-module/assets/82895857/645a8c2b-6305-4c71-bfee-6ca8db4fe566)
+<p><img src="https://github.com/bgrhnshn/qualys-cm-slack-integration-module/assets/82895857/645a8c2b-6305-4c71-bfee-6ca8db4fe566" alt="Alt text" title="Optional title"></p>
 <p>This module does the following:</p>
 <ul>
     <li>Lists Qualys CM alerts for specified Qualys Account hourly (time you specified)</li>
